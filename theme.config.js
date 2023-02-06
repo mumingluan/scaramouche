@@ -3,7 +3,7 @@ const YEAR = new Date().getFullYear()
 export default {
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
-      <time>{YEAR}</time> Copyleft, MUML Group for Scaramouche.
+      <time>{YEAR}</time>万叶 for Scaramouche.
       <style jsx>{`
         a {
           float: right;
